@@ -1,4 +1,8 @@
 Apple Pie
 Ice Cream
 Brownies
+<<<<<<< HEAD
 Mousaka
+=======
+Spaghetti
+>>>>>>> 7c522fd (added spaghetti to the menu file)
